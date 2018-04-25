@@ -1,0 +1,175 @@
+-------------
+SSK corn
+-------------
+Lamda = 0.01
+F1 : 0.5
+Precision : 1.0
+recall : 0.3333333333333333
+accuracy : 0.9
+Training Time: 5623.525379657745
+Total Time: 10910.078259706497
+-------------
+Lamda = 0.05
+F1 : 0.5
+Precision : 1.0
+recall : 0.3333333333333333
+accuracy : 0.9
+Training Time: 5884.577797174454
+Total Time: 10431.747127532959
+-------------
+Lamda = 0.09
+F1 : 0.5
+Precision : 1.0
+recall : 0.3333333333333333
+accuracy : 0.9
+Training Time: 5859.52155995369
+Total Time: 10188.30767774582
+-------------
+Lamda = 0.3
+F1 : 0.5
+Precision : 1.0
+recall : 0.3333333333333333
+accuracy : 0.9
+Training Time: 5594.293939828873
+Total Time: 9868.567795038223
+-------------
+Lamda = 0.7
+F1 : 0
+Precision : 0
+recall : 0.0
+accuracy : 0.85
+Training Time: 5566.040103197098
+Total Time: 9799.890831232071
+-------------
+-------------
+-------------
+SSK acq
+-------------
+Lamda = 0.01
+F1 : 0.888888888888889
+Precision : 1.0
+recall : 0.8
+accuracy : 0.95
+Training Time: 4382.973875999451
+Total Time: 8174.657917737961
+-------------
+Lamda = 0.05
+F1 : 0.888888888888889
+Precision : 1.0
+recall : 0.8
+accuracy : 0.95
+Training Time: 4155.471633911133
+Total Time: 7744.914834260941
+-------------
+Lamda = 0.09
+F1 : 0.888888888888889
+Precision : 1.0
+recall : 0.8
+accuracy : 0.95
+Training Time: 4096.356720209122
+Total Time: 7604.392012357712
+-------------
+Lamda = 0.3
+F1 : 0.7499999999999999
+Precision : 1.0
+recall : 0.6
+accuracy : 0.9
+Training Time: 3997.722401857376
+Total Time: 7487.779564619064
+-------------
+Lamda = 0.7
+F1 : 0.5714285714285715
+Precision : 1.0
+recall : 0.4
+accuracy : 0.85
+Training Time: 4075.3724319934845
+Total Time: 7620.3079035282135
+-------------
+-------------
+-------------
+SSK earn
+-------------
+Lamda = 0.01
+F1 : 0.25
+Precision : 1.0
+recall : 0.14285714285714285
+accuracy : 0.7
+Training Time: 9064.637612104416
+Total Time: 14831.330243825912
+-------------
+Lamda = 0.05
+F1 : 0.25
+Precision : 1.0
+recall : 0.14285714285714285
+accuracy : 0.7
+Training Time: 8759.628953933716
+Total Time: 14086.92316031456
+-------------
+Lamda = 0.09
+F1 : 0.4444444444444445
+Precision : 1.0
+recall : 0.2857142857142857
+accuracy : 0.75
+Training Time: 8524.438478469849
+Total Time: 13784.944167852402
+-------------
+Lamda = 0.3
+F1 : 0.6
+Precision : 1.0
+recall : 0.42857142857142855
+accuracy : 0.8
+Training Time: 8624.603806495667
+Total Time: 13782.681629657745
+-------------
+Lamda = 0.7
+F1 : 0.4
+Precision : 0.6666666666666666
+recall : 0.2857142857142857
+accuracy : 0.7
+Training Time: 8471.954931020737
+Total Time: 13660.909575462341
+-------------
+-------------
+-------------
+SSK crude
+-------------
+Lamda = 0.01
+F1 : 0
+Precision : 0
+recall : 0.0
+accuracy : 0.8
+Training Time: 9111.844271183014
+Total Time: 14768.4060151577
+-------------
+Lamda = 0.05
+F1 : 0
+Precision : 0
+recall : 0.0
+accuracy : 0.8
+Training Time: 8541.912251710892
+Total Time: 13775.811871528625
+-------------
+Lamda = 0.09
+F1 : 0
+Precision : 0
+recall : 0.0
+accuracy : 0.8
+Training Time: 8329.368715286255
+Total Time: 13368.054708719254
+-------------
+Lamda = 0.3
+F1 : 0.4
+Precision : 1.0
+recall : 0.25
+accuracy : 0.85
+Training Time: 8161.7780084609985
+Total Time: 13395.350857973099
+-------------
+Lamda = 0.7
+F1 : 0
+Precision : 0
+recall : 0.0
+accuracy : 0.85
+Training Time: 5566.040103197098
+Total Time: 13347.890831232071
+-------------

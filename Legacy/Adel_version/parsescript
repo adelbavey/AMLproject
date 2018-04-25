@@ -1,0 +1,2 @@
+python parser.py train > train.txt
+python parser.py test > test.txt

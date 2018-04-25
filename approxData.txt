@@ -1,0 +1,568 @@
+-------------
+ApproxSSK corn
+-------------
+K = 3 lamda = 0.05 NumberOfFeatures = 100
+Real kernel training took:   2186.7842123508453 seconds
+Real kernel total took:      3954.714902639389 seconds
+Approximating training took: 46.993025064468384 seconds
+Approximating total took:    107.2121250629425 seconds
+Alignment: 0.784157318168
+F1 True: 0.8
+Precision True: 1.0
+recall True: 0.6666666666666666
+accuracy True: 0.95
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.85
+-------------
+K = 4 lamda = 0.05 NumberOfFeatures = 100
+Real kernel training took:   3697.1768968105316 seconds
+Real kernel total took:      6325.028207540512 seconds
+Approximating training took: 95.5340940952301 seconds
+Approximating total took:    218.99080300331116 seconds
+Alignment: 0.671969741756
+F1 True: 0.8
+Precision True: 1.0
+recall True: 0.6666666666666666
+accuracy True: 0.95
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.85
+-------------
+K = 5 lamda = 0.05 NumberOfFeatures = 100
+Real kernel training took:   5013.79101896286 seconds
+Real kernel total took:      8617.673488140106 seconds
+Approximating training took: 162.62438774108887 seconds
+Approximating total took:    376.3528447151184 seconds
+Alignment: 0.616020200288
+F1 True: 0.5
+Precision True: 1.0
+recall True: 0.3333333333333333
+accuracy True: 0.9
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.85
+-------------
+-------------
+K = 3 lamda = 0.05 NumberOfFeatures = 700
+Real kernel training took:   0.0008411407470703125 seconds
+Real kernel total took:      0.0009629726409912109 seconds
+Approximating training took: 335.1216335296631 seconds
+Approximating total took:    765.5506381988525 seconds
+Alignment: 0.78416080732
+F1 True: 0.8
+Precision True: 1.0
+recall True: 0.6666666666666666
+accuracy True: 0.95
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.85
+-------------
+K = 4 lamda = 0.05 NumberOfFeatures = 700
+Real kernel training took:   0.0006923675537109375 seconds
+Real kernel total took:      0.000804901123046875 seconds
+Approximating training took: 665.7280683517456 seconds
+Approximating total took:    1528.186560869217 seconds
+Alignment: 0.671969741761
+F1 True: 0.8
+Precision True: 1.0
+recall True: 0.6666666666666666
+accuracy True: 0.95
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.85
+-------------
+K = 5 lamda = 0.05 NumberOfFeatures = 700
+Real kernel training took:   0.0007565021514892578 seconds
+Real kernel total took:      0.0008473396301269531 seconds
+Approximating training took: 1094.638995885849 seconds
+Approximating total took:    2478.9225792884827 seconds
+Alignment: 0.616020200288
+F1 True: 0.5
+Precision True: 1.0
+recall True: 0.3333333333333333
+accuracy True: 0.9
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.85
+-------------
+-------------
+K = 3 lamda = 0.05 NumberOfFeatures = 2500
+Real kernel training took:   0.0005204677581787109 seconds
+Real kernel total took:      0.0006082057952880859 seconds
+Approximating training took: 810.5470085144043 seconds
+Approximating total took:    1866.5857965946198 seconds
+Alignment: 0.784165422354
+F1 True: 0.8
+Precision True: 1.0
+recall True: 0.6666666666666666
+accuracy True: 0.95
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.85
+-------------
+K = 4 lamda = 0.05 NumberOfFeatures = 2500
+Real kernel training took:   0.0006337165832519531 seconds
+Real kernel total took:      0.0007216930389404297 seconds
+Approximating training took: 2176.2422392368317 seconds
+Approximating total took:    4999.48331785202 seconds
+Alignment: 0.671969741768
+F1 True: 0.8
+Precision True: 1.0
+recall True: 0.6666666666666666
+accuracy True: 0.95
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.85
+-------------
+K = 5 lamda = 0.05 NumberOfFeatures = 2500
+Real kernel training took:   0.0008599758148193359 seconds
+Real kernel total took:      0.0009562969207763672 seconds
+Approximating training took: 3666.1124975681305 seconds
+Approximating total took:    8536.464720249176 seconds
+Alignment: 0.616020200288
+F1 True: 0.5
+Precision True: 1.0
+recall True: 0.3333333333333333
+accuracy True: 0.9
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.85
+-------------
+-------------
+-------------
+-------------
+ApproxSSK acq
+-------------
+K = 3 lamda = 0.05 NumberOfFeatures = 100
+Real kernel training took:   1681.4850590229034 seconds
+Real kernel total took:      3051.1339552402496 seconds
+Approximating training took: 40.716633319854736 seconds
+Approximating total took:    91.84664535522461 seconds
+Alignment: 0.758912475358
+F1 True: 0.8000000000000002
+Precision True: 0.8
+recall True: 0.8
+accuracy True: 0.9
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.75
+-------------
+K = 4 lamda = 0.05 NumberOfFeatures = 100
+Real kernel training took:   2447.8002705574036 seconds
+Real kernel total took:      4492.973445415497 seconds
+Approximating training took: 79.87437677383423 seconds
+Approximating total took:    180.4946608543396 seconds
+Alignment: 0.6319004553
+F1 True: 0.888888888888889
+Precision True: 1.0
+recall True: 0.8
+accuracy True: 0.95
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.75
+-------------
+K = 5 lamda = 0.05 NumberOfFeatures = 100
+Real kernel training took:   3281.2086646556854 seconds
+Real kernel total took:      5964.289397954941 seconds
+Approximating training took: 132.0254421234131 seconds
+Approximating total took:    299.09638023376465 seconds
+Alignment: 0.571034096606
+F1 True: 0.888888888888889
+Precision True: 1.0
+recall True: 0.8
+accuracy True: 0.95
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.75
+-------------
+-------------
+K = 3 lamda = 0.05 NumberOfFeatures = 700
+Real kernel training took:   0.0006458759307861328 seconds
+Real kernel total took:      0.0007367134094238281 seconds
+Approximating training took: 271.6694486141205 seconds
+Approximating total took:    621.7896566390991 seconds
+Alignment: 0.758915149651
+F1 True: 0.8000000000000002
+Precision True: 0.8
+recall True: 0.8
+accuracy True: 0.9
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.75
+-------------
+K = 4 lamda = 0.05 NumberOfFeatures = 700
+Real kernel training took:   0.0006508827209472656 seconds
+Real kernel total took:      0.0007469654083251953 seconds
+Approximating training took: 527.3738803863525 seconds
+Approximating total took:    1224.3358762264252 seconds
+Alignment: 0.631900455303
+F1 True: 0.888888888888889
+Precision True: 1.0
+recall True: 0.8
+accuracy True: 0.95
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.75
+-------------
+K = 5 lamda = 0.05 NumberOfFeatures = 700
+Real kernel training took:   0.0007460117340087891 seconds
+Real kernel total took:      0.0008418560028076172 seconds
+Approximating training took: 913.6570971012115 seconds
+Approximating total took:    2061.0156116485596 seconds
+Alignment: 0.571034096606
+F1 True: 0.888888888888889
+Precision True: 1.0
+recall True: 0.8
+accuracy True: 0.95
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.75
+-------------
+-------------
+K = 3 lamda = 0.05 NumberOfFeatures = 2500
+Real kernel training took:   0.0007462501525878906 seconds
+Real kernel total took:      0.0008437633514404297 seconds
+Approximating training took: 700.2440254688263 seconds
+Approximating total took:    1601.0729422569275 seconds
+Alignment: 0.758918071852
+F1 True: 0.8000000000000002
+Precision True: 0.8
+recall True: 0.8
+accuracy True: 0.9
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.75
+-------------
+K = 4 lamda = 0.05 NumberOfFeatures = 2500
+Real kernel training took:   0.0007452964782714844 seconds
+Real kernel total took:      0.0008428096771240234 seconds
+Approximating training took: 1931.1418006420135 seconds
+Approximating total took:    4401.823187589645 seconds
+Alignment: 0.63190045531
+F1 True: 0.888888888888889
+Precision True: 1.0
+recall True: 0.8
+accuracy True: 0.95
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.75
+-------------
+K = 5 lamda = 0.05 NumberOfFeatures = 2500
+Real kernel training took:   0.0006525516510009766 seconds
+Real kernel total took:      0.0007491111755371094 seconds
+Approximating training took: 3332.7474608421326 seconds
+Approximating total took:    7571.871504545212 seconds
+Alignment: 0.571034096606
+F1 True: 0.888888888888889
+Precision True: 1.0
+recall True: 0.8
+accuracy True: 0.95
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.75
+-------------
+-------------
+-------------
+-------------
+ApproxSSK earn
+-------------
+K = 3 lamda = 0.05 NumberOfFeatures = 100
+Real kernel training took:   3534.3851974010468 seconds
+Real kernel total took:      5532.376971721649 seconds
+Approximating training took: 55.24516010284424 seconds
+Approximating total took:    126.30256032943726 seconds
+Alignment: 0.841910281855
+F1 True: 0.25
+Precision True: 1.0
+recall True: 0.14285714285714285
+accuracy True: 0.7
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.65
+-------------
+K = 4 lamda = 0.05 NumberOfFeatures = 100
+Real kernel training took:   5358.295948982239 seconds
+Real kernel total took:      8357.680001735687 seconds
+Approximating training took: 107.97050642967224 seconds
+Approximating total took:    243.9176390171051 seconds
+Alignment: 0.658741465959
+F1 True: 0.25
+Precision True: 1.0
+recall True: 0.14285714285714285
+accuracy True: 0.7
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.65
+-------------
+K = 5 lamda = 0.05 NumberOfFeatures = 100
+Real kernel training took:   7383.365976572037 seconds
+Real kernel total took:      11691.620254516602 seconds
+Approximating training took: 187.38468217849731 seconds
+Approximating total took:    424.19481921195984 seconds
+Alignment: 0.536544942777
+F1 True: 0.25
+Precision True: 1.0
+recall True: 0.14285714285714285
+accuracy True: 0.7
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.65
+-------------
+-------------
+K = 3 lamda = 0.05 NumberOfFeatures = 700
+Real kernel training took:   0.0007643699645996094 seconds
+Real kernel total took:      0.0008687973022460938 seconds
+Approximating training took: 379.57048058509827 seconds
+Approximating total took:    863.2396428585052 seconds
+Alignment: 0.841910909685
+F1 True: 0.25
+Precision True: 1.0
+recall True: 0.14285714285714285
+accuracy True: 0.7
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.65
+-------------
+K = 4 lamda = 0.05 NumberOfFeatures = 700
+Real kernel training took:   0.0008382797241210938 seconds
+Real kernel total took:      0.000949859619140625 seconds
+Approximating training took: 746.2803544998169 seconds
+Approximating total took:    1724.2807033061981 seconds
+Alignment: 0.65874146596
+F1 True: 0.25
+Precision True: 1.0
+recall True: 0.14285714285714285
+accuracy True: 0.7
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.65
+-------------
+K = 5 lamda = 0.05 NumberOfFeatures = 700
+Real kernel training took:   0.0008924007415771484 seconds
+Real kernel total took:      0.0009937286376953125 seconds
+Approximating training took: 1277.257929801941 seconds
+Approximating total took:    2953.0388476848602 seconds
+Alignment: 0.536544942777
+F1 True: 0.25
+Precision True: 1.0
+recall True: 0.14285714285714285
+accuracy True: 0.7
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.65
+-------------
+-------------
+K = 3 lamda = 0.05 NumberOfFeatures = 2500
+Real kernel training took:   0.0008928775787353516 seconds
+Real kernel total took:      0.0009922981262207031 seconds
+Approximating training took: 1022.7144110202789 seconds
+Approximating total took:    2312.58553314209 seconds
+Alignment: 0.841911683427
+F1 True: 0.25
+Precision True: 1.0
+recall True: 0.14285714285714285
+accuracy True: 0.7
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.65
+-------------
+K = 4 lamda = 0.05 NumberOfFeatures = 2500
+Real kernel training took:   0.0005884170532226562 seconds
+Real kernel total took:      0.0006680488586425781 seconds
+Approximating training took: 2688.567596435547 seconds
+Approximating total took:    6192.835037231445 seconds
+Alignment: 0.658741465963
+F1 True: 0.25
+Precision True: 1.0
+recall True: 0.14285714285714285
+accuracy True: 0.7
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.65
+-------------
+K = 5 lamda = 0.05 NumberOfFeatures = 2500
+Real kernel training took:   0.0006806850433349609 seconds
+Real kernel total took:      0.0007658004760742188 seconds
+Approximating training took: 4521.426429748535 seconds
+Approximating total took:    10378.340091466904 seconds
+Alignment: 0.536544942777
+F1 True: 0.25
+Precision True: 1.0
+recall True: 0.14285714285714285
+accuracy True: 0.7
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.65
+-------------
+-------------
+-------------
+-------------
+ApproxSSK crude
+-------------
+K = 3 lamda = 0.05 NumberOfFeatures = 100
+Real kernel training took:   3429.278713464737 seconds
+Real kernel total took:      5307.174590587616 seconds
+Approximating training took: 56.51587271690369 seconds
+Approximating total took:    126.34526705741882 seconds
+Alignment: 0.820223305449
+F1 True: 0
+Precision True: 0
+recall True: 0.0
+accuracy True: 0.8
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.8
+-------------
+K = 4 lamda = 0.05 NumberOfFeatures = 100
+Real kernel training took:   5124.881153821945 seconds
+Real kernel total took:      7951.11816573143 seconds
+Approximating training took: 110.8556592464447 seconds
+Approximating total took:    249.59664368629456 seconds
+Alignment: 0.678219222338
+F1 True: 0.4
+Precision True: 1.0
+recall True: 0.25
+accuracy True: 0.85
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.8
+-------------
+K = 5 lamda = 0.05 NumberOfFeatures = 100
+Real kernel training took:   6844.952157974243 seconds
+Real kernel total took:      10943.091164588928 seconds
+Approximating training took: 202.04978895187378 seconds
+Approximating total took:    455.45669746398926 seconds
+Alignment: 0.595930860787
+F1 True: 0
+Precision True: 0
+recall True: 0.0
+accuracy True: 0.8
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.8
+-------------
+-------------
+K = 3 lamda = 0.05 NumberOfFeatures = 700
+Real kernel training took:   0.0005564689636230469 seconds
+Real kernel total took:      0.0006937980651855469 seconds
+Approximating training took: 414.9202275276184 seconds
+Approximating total took:    931.529670715332 seconds
+Alignment: 0.820224648571
+F1 True: 0
+Precision True: 0
+recall True: 0.0
+accuracy True: 0.8
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.8
+-------------
+K = 4 lamda = 0.05 NumberOfFeatures = 700
+Real kernel training took:   0.0005693435668945312 seconds
+Real kernel total took:      0.0006508827209472656 seconds
+Approximating training took: 840.2758615016937 seconds
+Approximating total took:    1865.4697165489197 seconds
+Alignment: 0.678219222341
+F1 True: 0.4
+Precision True: 1.0
+recall True: 0.25
+accuracy True: 0.85
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.8
+-------------
+K = 5 lamda = 0.05 NumberOfFeatures = 700
+Real kernel training took:   0.0006954669952392578 seconds
+Real kernel total took:      0.0007779598236083984 seconds
+Approximating training took: 1419.1908931732178 seconds
+Approximating total took:    3044.559602022171 seconds
+Alignment: 0.595930860787
+F1 True: 0
+Precision True: 0
+recall True: 0.0
+accuracy True: 0.8
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.8
+-------------
+-------------
+K = 3 lamda = 0.05 NumberOfFeatures = 2500
+Real kernel training took:   0.0007669925689697266 seconds
+Real kernel total took:      0.0008594989776611328 seconds
+Approximating training took: 1003.0864489078522 seconds
+Approximating total took:    2248.3363156318665 seconds
+Alignment: 0.820226339371
+F1 True: 0
+Precision True: 0
+recall True: 0.0
+accuracy True: 0.8
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.8
+-------------
+K = 4 lamda = 0.05 NumberOfFeatures = 2500
+Real kernel training took:   0.0006957054138183594 seconds
+Real kernel total took:      0.0007913112640380859 seconds
+Approximating training took: 2731.7078902721405 seconds
+Approximating total took:    6290.531788110733 seconds
+Alignment: 0.678219222344
+F1 True: 0.4
+Precision True: 1.0
+recall True: 0.25
+accuracy True: 0.85
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.8
+-------------
+K = 5 lamda = 0.05 NumberOfFeatures = 2500
+Real kernel training took:   0.0009937286376953125 seconds
+Real kernel total took:      0.0011599063873291016 seconds
+Approximating training took: 4778.8202252388 seconds
+Approximating total took:    10624.580828905106 seconds
+Alignment: 0.595930860787
+F1 True: 0
+Precision True: 0
+recall True: 0.0
+accuracy True: 0.8
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.8
+-------------
+-------------
+-------------

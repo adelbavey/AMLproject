@@ -1,0 +1,142 @@
+-------------
+ApproxSSK crude
+-------------
+K = 3 lamda = 0.05 NumberOfFeatures = 100
+Real kernel training took:   3082.8453991413116 seconds
+Real kernel total took:      4761.753876686096 seconds
+Approximating training took: 53.02910399436951 seconds
+Approximating total took:    117.96993899345398 seconds
+Alignment: 0.7203152589384847
+F1 True: 0
+Precision True: 0
+recall True: 0.0
+accuracy True: 0.8
+F1 Approx: 0.6666666666666666
+Precision Approx: 1.0
+recall Approx: 0.5
+accuracy Approx: 0.9
+-------------
+K = 4 lamda = 0.05 NumberOfFeatures = 100
+Real kernel training took:   3063.8548159599304 seconds
+Real kernel total took:      4819.572933673859 seconds
+Approximating training took: 91.45598578453064 seconds
+Approximating total took:    204.67220878601074 seconds
+Alignment: 0.8320991727748278
+F1 True: 0
+Precision True: 0
+recall True: 0.0
+accuracy True: 0.8
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.8
+-------------
+K = 5 lamda = 0.05 NumberOfFeatures = 100
+Real kernel training took:   3151.4620900154114 seconds
+Real kernel total took:      4838.564502954483 seconds
+Approximating training took: 129.6381857395172 seconds
+Approximating total took:    291.41975450515747 seconds
+Alignment: 0.7966244287943253
+F1 True: 0
+Precision True: 0
+recall True: 0.0
+accuracy True: 0.8
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.8
+-------------
+-------------
+K = 3 lamda = 0.05 NumberOfFeatures = 700
+Real kernel training took:   0.0010030269622802734 seconds
+Real kernel total took:      0.0010030269622802734 seconds
+Approximating training took: 353.0822551250458 seconds
+Approximating total took:    793.3981900215149 seconds
+Alignment: 0.83103108614357
+F1 True: 0
+Precision True: 0
+recall True: 0.0
+accuracy True: 0.8
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.8
+-------------
+K = 4 lamda = 0.05 NumberOfFeatures = 700
+Real kernel training took:   0.0 seconds
+Real kernel total took:      0.0 seconds
+Approximating training took: 603.8290467262268 seconds
+Approximating total took:    1343.061794757843 seconds
+Alignment: 0.8655076574735245
+F1 True: 0
+Precision True: 0
+recall True: 0.0
+accuracy True: 0.8
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.8
+-------------
+K = 5 lamda = 0.05 NumberOfFeatures = 700
+Real kernel training took:   0.0 seconds
+Real kernel total took:      0.0 seconds
+Approximating training took: 891.700192451477 seconds
+Approximating total took:    1995.5800857543945 seconds
+Alignment: 0.8499646569283503
+F1 True: 0
+Precision True: 0
+recall True: 0.0
+accuracy True: 0.8
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.8
+-------------
+-------------
+K = 3 lamda = 0.05 NumberOfFeatures = 1800
+Real kernel training took:   0.0 seconds
+Real kernel total took:      0.0010027885437011719 seconds
+Approximating training took: 902.0006067752838 seconds
+Approximating total took:    2002.2327916622162 seconds
+Alignment: 0.9051127125101338
+F1 True: 0
+Precision True: 0
+recall True: 0.0
+accuracy True: 0.8
+F1 Approx: 0.4
+Precision Approx: 1.0
+recall Approx: 0.25
+accuracy Approx: 0.85
+-------------
+K = 4 lamda = 0.05 NumberOfFeatures = 1800
+Real kernel training took:   0.0010035037994384766 seconds
+Real kernel total took:      0.0010035037994384766 seconds
+Approximating training took: 1550.4905135631561 seconds
+Approximating total took:    3453.7612924575806 seconds
+Alignment: 0.8790434947610378
+F1 True: 0
+Precision True: 0
+recall True: 0.0
+accuracy True: 0.8
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.8
+-------------
+K = 5 lamda = 0.05 NumberOfFeatures = 1800
+Real kernel training took:   0.0010027885437011719 seconds
+Real kernel total took:      0.0010027885437011719 seconds
+Approximating training took: 2357.365753889084 seconds
+Approximating total took:    5202.56573343277 seconds
+Alignment: 0.8426722648761279
+F1 True: 0
+Precision True: 0
+recall True: 0.0
+accuracy True: 0.8
+F1 Approx: 0
+Precision Approx: 0
+recall Approx: 0.0
+accuracy Approx: 0.8
+-------------
+-------------
+-------------

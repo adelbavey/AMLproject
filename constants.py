@@ -1,0 +1,11 @@
+k = 3
+lamda = 0.05
+trainSamples = 80#370
+testSamples = 20#90 
+nFeatures = 300
+label = "corn"
+trainPath = "train.txt"
+testPath = "test.txt"
+alpha = "abcdefghijklmnopqrstuvwzyx"
+labels = ["earn","acq","corn","crude"]
+labelconsts = {"earn":3,"acq":4,"corn":7,"crude":5}

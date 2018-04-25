@@ -1,0 +1,88 @@
+-------------
+CombinedSSK for K corn
+-------------
+K = (3, 4)
+F1 : 0.8
+Precision : 1.0
+recall : 0.6666666666666666
+accuracy : 0.95
+Training Time: 5771.479446411133
+Total Time: 11060.208260774612
+-------------
+K = (4, 5)
+F1 : 0.8
+Precision : 1.0
+recall : 0.6666666666666666
+accuracy : 0.95
+Training Time: 9700.781612634659
+Total Time: 17024.21017575264
+-------------
+K = (5, 6)
+F1 : 0.5
+Precision : 1.0
+recall : 0.3333333333333333
+accuracy : 0.9
+Training Time: 12265.631465911865
+Total Time: 21836.430923461914
+-------------
+-------------
+-------------
+CombinedSSK for K acq
+-------------
+K = (3, 4)
+F1 : 0.888888888888889
+Precision : 1.0
+recall : 0.8
+accuracy : 0.95
+Training Time: 5073.48354434967
+Total Time: 9442.01796412468
+-------------
+K = (4, 5)
+F1 : 0.888888888888889
+Precision : 1.0
+recall : 0.8
+accuracy : 0.95
+Training Time: 7018.7340388298035
+Total Time: 13147.94585943222
+-------------
+K = (5, 6)
+F1 : 0.888888888888889
+Precision : 1.0
+recall : 0.8
+accuracy : 0.95
+Training Time: 9016.128708839417
+Total Time: 16880.10310268402
+-------------
+-------------
+-------------
+CombinedSSK for K earn
+-------------
+K = (3, 4)
+F1 : 0.25
+Precision : 1.0
+recall : 0.14285714285714285
+accuracy : 0.7
+Training Time: 10456.133518218994
+Total Time: 16856.947615146637
+-------------
+K = (4, 5)
+F1 : 0.25
+Precision : 1.0
+recall : 0.14285714285714285
+accuracy : 0.7
+Training Time: 14382.710080862045
+Total Time: 23153.648424386978
+-------------
+K = (5, 6)
+F1 : 0.25
+Precision : 1.0
+recall : 0.14285714285714285
+accuracy : 0.7
+Training Time: 18770.10236811638
+Total Time: 30303.734352111816
+-------------
+-------------
+-------------
+CombinedSSK for K crude
+-------------
+K = (3, 4)
